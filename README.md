@@ -10,15 +10,6 @@ The Face Attendance System uses Local Binary Patterns Histograms (LBPH) for faci
 
 ---
 
-## 🧑‍💻 Team Members
-
-- **Akash A (22AI001)**
-- **Bharani S (22AI004)**
-- **Bharanidharan G (22AI005)**
-- **Keerthivarsan D (22AI022)**
-
----
-
 ## 🚀 Features
 
 - Real-time face detection and recognition
