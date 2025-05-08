@@ -55,4 +55,8 @@ The Face Attendance System uses Local Binary Patterns Histograms (LBPH) for faci
 ---
 
 ## 🗂️ Project Structure
-
+Face-Attendance-System/
+├── student_images/ # Folder containing training images
+├── Attendance.csv # CSV file to store attendance logs
+├── app.py # Main GUI + recognition script
+├── README.md # Project documentation
